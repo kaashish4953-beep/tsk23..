@@ -70,7 +70,7 @@ The landing page is responsive and works on:
 
 ## Author
 
-**Name:** Ashish kumar
+**Name:** Vishal kumar
 
 **Course:** Frontend Development
 
